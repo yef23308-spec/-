@@ -23,6 +23,7 @@ C:\Users\39729\AppData\Local\Programs\Python\Python314\python.exe main.py
 - `main.py`：游戏主程序
 - `test_game.py`：测试猜数字规则
 - `README.md`：项目说明
+- `LICENSE`：开源许可证
 
 ## 我学到了什么
 
